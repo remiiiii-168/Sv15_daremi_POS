@@ -1,0 +1,10 @@
+.product-picture{
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+}
+.Product-Card{
+    width: 100%;
+    border: none;
+    box-shadow: 4px 2px 7px -4px;
+}
